@@ -14,6 +14,7 @@ Ensure OSSEC is installed and running on your server.
 Set the correct permissions for the web directory:
 
 sudo chown -R www-data:www-data /var/www/html/ossec
+
 sudo chmod -R 755 /var/www/html/ossec
 
 Configure OSSEC Web UI:
