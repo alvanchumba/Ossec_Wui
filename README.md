@@ -2,7 +2,7 @@
 
     Clone this repository into your web server directory:
 
-git clone git@github.com:alvanchumba/Ossec_Wui.git /var/www/html/ossec
+git clone https://github.com/alvanchumba/Ossec_Wui.git /var/www/html/ossec
 
 Install required packages (if not already installed):
 
